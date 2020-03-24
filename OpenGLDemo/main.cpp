@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  opengl
-//
-//  Created by hay on 2018/3/6.
-//  Copyright © 2018年 hay. All rights reserved.
-//
-
 #include <iostream>
 
 // GLEW
